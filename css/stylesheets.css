@@ -906,7 +906,9 @@ p {
     height: 170px;
 }
 
-<!--*********About Us End***************-->#feature-media-container {
+/* <!--*********About Us End***************--> */
+
+#feature-media-container {
     width: 100%;
     height: 500px;
     position: relative;

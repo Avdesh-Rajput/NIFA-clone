@@ -212,9 +212,6 @@
     #welcome-container .container {
         padding: 0 15px;
     }
-    #student-container {
-        display: none !important;
-    }
     .list_carousel1 #foo1 {
         padding: 0;
         margin: 0;
@@ -469,9 +466,6 @@
     }
     #welcome-container .container {
         padding: 0 15px;
-    }
-    #student-container {
-        display: none !important;
     }
     .list_carousel1 #foo1>li {
         width: 46% !important;
